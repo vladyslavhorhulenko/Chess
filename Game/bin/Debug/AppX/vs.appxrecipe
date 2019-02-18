@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-M8G6DAO</Machine>
+    <WindowsUser>fggh4</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c2176770-7763-4607-84c9-67be5a48cbc1</PackageIdentityName>
+    <PackageIdentityPublisher>CN=fggh4</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\fggh4\source\repos\Game\Game\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\Users\fggh4\source\repos\Game\Game\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>061FC8E7A4F8B829E75EC866B01098B46D9056C087FE5CC0707E04A8BF4EF5D9</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c2176770-7763-4607-84c9-67be5a48cbc1_1.0.0.0_neutral__pnnr4tqzpqcrp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c2176770-7763-4607-84c9-67be5a48cbc1_pnnr4tqzpqcrp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c2176770-7763-4607-84c9-67be5a48cbc1</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=fggh4</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\fggh4\source\repos\Game\Game\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-11-26T15:54:31.094</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\fggh4\source\repos\Game\Game\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2018-11-26T09:41:42.358</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fggh4\source\repos\Game\Game\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2018-09-21T17:19:23.963</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fggh4\source\repos\Game\Game\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-21T17:19:23.963</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fggh4\source\repos\Game\Game\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-21T17:19:23.963</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fggh4\source\repos\Game\Game\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-21T17:19:23.963</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fggh4\source\repos\Game\Game\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-21T17:19:23.963</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fggh4\source\repos\Game\Game\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-21T17:19:23.963</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fggh4\source\repos\Game\Game\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-21T17:19:23.963</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fggh4\source\repos\Game\Game\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2018-11-26T15:54:13.616</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fggh4\source\repos\Game\Game\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2018-11-26T15:00:35.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fggh4\source\repos\Game\Game\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-11-26T15:54:28.828</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

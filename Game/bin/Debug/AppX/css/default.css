@@ -1,0 +1,22 @@
+﻿body {
+    background-color: gray;
+}
+.gameField{
+    margin-top: 50px;
+    margin-left: 100px;
+    width: 600px;
+    height: 600px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+.black {
+    width: 75px;
+    height: 75px;
+    background-color: sandybrown;
+}
+.white {
+    width: 75px;
+    height: 75px;
+    background-color: white;
+}
